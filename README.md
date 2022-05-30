@@ -1,39 +1,4 @@
 
-# Arduino project
-
-A brief description of what this project does and who it's for
-
-
-## Authors
-
-- [@YuvaKrishnaS](https://www.github.com/YuvaKrishnaS)
-
-
-## Demo
-
-Insert gif or link to demo
-
-
-## FAQ
-
-#### What is your Age? 
-
-12yr old
-
-#### In which class do you read in ?
-
-6th (2022-23)
-
-#### From when did you started Coding ?
-
-At the age of 9 started learning block coding then at 10 started Python and HTML
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at naveenprasad134847@gmail.com
-
-
 ## 🚀 About Me
 I am a Student, Youtuber, Foddie, coder and A child
 
@@ -63,11 +28,19 @@ My Father is an Ex-Serviceman retired from Navy currently working in BOI Taraman
 HTML, Python, C, Java...
 
 
-## Related
+## FAQ
 
-Here are some related projects
+#### What is your Age? 
 
-[Awesome README](https://github.com/matiassingers/awesome-readme)
+12yr old
+
+#### In which class do you read in ?
+
+6th (2022-23)
+
+#### From when did you started Coding ?
+
+At the age of 9 started learning block coding then at 10 started Python and HTML
 
 
 ## Run Locally
@@ -97,7 +70,17 @@ Start the server
 ```
 
 
+## Feedback
+
+If you have any feedback, please reach out to us at naveenprasad134847@gmail.com
+
+
 ## Support
 
 For support, email naveenprasad134847@gmail.com.com or join our YouTube channel.
+
+
+## Authors
+
+- [@YuvaKrishnaS](https://www.github.com/YuvaKrishnaS)
 
